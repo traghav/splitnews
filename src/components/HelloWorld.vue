@@ -66,7 +66,7 @@
       left: "left.html?q=",
       right: "right.html?q=",
       search: "",
-      terms: ["trump", "abortion", "gun rights", "biden", "main in voting", "covid", "supreme court", "green new deal", "medicare", "healthcare", "immigration"]
+      terms: ["trump", "abortion", "gun rights", "biden", "voting", "covid", "supreme court", "green new deal", "medicare", "healthcare", "immigration"]
     }),
     computed: {
     leftUrl: function () {

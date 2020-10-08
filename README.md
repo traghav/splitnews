@@ -1,4 +1,4 @@
-# twosearch
+# Split Search
 
 ## Project setup
 ```
