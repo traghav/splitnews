@@ -42,9 +42,9 @@
     </div>
     <div v-else>
       <div class = "story">
-        <h1>Split Search is a small web expermient.</h1>
+        <h1>Split Search is a small web experiment.</h1>
         <h1>Two custom Google Search engines have been setup.</h1>
-        <h1>One engine points to only <u>liberal</u> news outlets and the other to only <u>conservative</u> news outlets.
+        <h1>One engine points to only <b>liberal</b> news outlets and the other to only <b>conservative</b> news outlets.
         </h1>
         <h2>Read More: <a href="https://raghav.cc/federatedsearch">The case for federated search engines</a></h2>
         
