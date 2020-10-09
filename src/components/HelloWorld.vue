@@ -128,11 +128,11 @@
   
 }
 .iframe-wrapper .vue-friendly-iframe iframe {
-  height: calc(100vh - 45vh);
+  height: calc(100vh - 55vh);
   width: 100%;
 }
 .iframe-wrapper2  iframe {
-  height: calc(100vh - 45vh);
+  height: calc(100vh - 55vh);
   width: 100%;
 }
 .story h2 {
